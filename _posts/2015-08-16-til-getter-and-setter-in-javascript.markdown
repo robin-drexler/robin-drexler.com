@@ -6,8 +6,6 @@ date:   2015-08-16 00:00:00
 categories: til article
 ---
 
-
-# [TIL] getter and setter in JavaScript
 You can define getter and setter functions in JS, which from the outside just look like normal objects properties, but since they're functions can do additional work when accessed.  
 Could for example be useful to log access to properties when you're not sure if they're still used somewhere.  
 [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get")  

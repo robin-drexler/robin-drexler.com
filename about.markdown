@@ -4,8 +4,6 @@ title:  'About'
 permalink: /about/
 ---
 
-
-
 Robin Drexler  
 Bahrenfelder Chaussee 54  
 22761 Hamburg   

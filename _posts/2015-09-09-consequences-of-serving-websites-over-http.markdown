@@ -6,8 +6,6 @@ date:   2015-09-09 00:00:00
 categories: article
 ---
 
-
-# Consequences of serving websites over http
 This blog post briefly outlines the risks of continuing to deliver websites over http instead of https in the next years. Obvious security benefits are put aside for now. Everything discussed in this post is probably 1-3 years away, so there is no need to panic. Still it's good to know the direction we're heading.
 ## Browsers will mark non-secure origins as non-secure
 Normally, when you visit a site that is served over https, in most browsers, a green lock symbol appears in the address bar, indicating that the page is served securely. This is going to be inverted, at least in Chrome. In the future, sites that are served over http instead of https, will be flagged as insecure. Eventually, once https is the norm, the green lock indicator will completely vanish.  

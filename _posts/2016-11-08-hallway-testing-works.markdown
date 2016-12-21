@@ -6,8 +6,6 @@ date:   2016-11-08 00:00:00
 categories: ux article web
 ---
 
-
-# Hallway testing works
 During this year's Firebase Dev Summit in Berlin, [Tobias](https://twitter.com/tobiasbales "https://twitter.com/tobiasbales") and I built a little web app, called [webperfchallenge](https://webperfchallenge.com/ "https://webperfchallenge.com/"), which allows to compare your website's mobile performance with the top 50 most popular websites in the world.  
 
 During development we simply used Chrome's autocompletion to insert test urls.

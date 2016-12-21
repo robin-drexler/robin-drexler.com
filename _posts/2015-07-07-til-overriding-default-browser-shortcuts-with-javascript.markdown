@@ -6,8 +6,6 @@ date:   2015-07-07 00:00:00
 categories: til article web
 ---
 
-
-# [TIL] Overriding default browser shortcuts with JavaScript
 Google Drive does it, medium does it and plenty of other services do it too - overriding default and well known browser shortcuts with application specific behavior.  
 In the case of medium <kbd>CMD</kbd> + <kbd>S</kbd> saves an article, the same is true for Google Drive, whereas the printing shortcut <kbd>CMD</kbd> + <kbd>P</kbd> is also overridden there (when previewing a pdf).  
 I've always wondered, how it's done and it looks like it is surprisingly easy to achieve, but also unsurprisingly inconsistent across different browsers.

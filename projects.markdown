@@ -4,9 +4,6 @@ title:  'Projects'
 permalink: /projects/
 ---
 
-
-
-# Projects
 Here you can find some of the projects, I'm currently working on or worked on in the past.  
 Additionally, there's an [extra page with some of my Chrome extensions](/projects/chrome-extensions/ "Chrome Extensions").
 <div style="height: 40px;"><span></span></div>

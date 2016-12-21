@@ -6,8 +6,6 @@ date:   2015-07-06 00:00:00
 categories: ux ux-snippet article
 ---
 
-
-# [UX-SNIPPET] 1Password Purchase
 When you attempt to purchase an 1Password licence and have already saved contact and credit cart information anytime before, it pulls that information automatically for the checkout process.  
 
 Really smart and helpful.  

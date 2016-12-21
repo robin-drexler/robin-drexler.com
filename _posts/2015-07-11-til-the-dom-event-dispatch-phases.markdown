@@ -6,8 +6,6 @@ date:   2015-07-11 00:00:00
 categories: til article web
 ---
 
-
-# [TIL] The DOM event dispatch phases
 Browsing [MDN](https://developer.mozilla.org/en/docs/Web/API/EventTarget.addEventListener), I stumbled upon the fact that `target.addEventListener` actually has a third parameter, called `useCapture`.  
 
 <div class="highlight">

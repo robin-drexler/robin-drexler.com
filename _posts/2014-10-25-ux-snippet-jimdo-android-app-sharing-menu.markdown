@@ -6,8 +6,6 @@ date:   2014-10-25 00:00:00
 categories: ux ux-snippet article
 ---
 
-
-# [UX-SNIPPET] Jimdo Android app sharing menu
 ![](https://image.jimcdn.com/app/cms/image/transf/dimension=210x1024:format=jpg/path/se42d1516dcb4082b/image/ifa4711da1311a6b3/version/1414269390/image.jpg)
 The Jimdo app pushes browsers to the top of the sharing menu, because previewing the website is the most likely action. 
 

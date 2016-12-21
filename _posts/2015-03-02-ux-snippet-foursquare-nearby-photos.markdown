@@ -6,8 +6,6 @@ date:   2015-03-02 00:00:00
 categories: ux ux-snippet article
 ---
 
-
-# [UX-SNIPPET] Foursquare nearby photos
 When writing a tip on Foursquare, it shows the photos you've taken nearby the venue, so you can easily attach them.  
 It's somewhat expected, but nevertheless pretty cool how Foursquare uses location to improve UX.
 ## Example

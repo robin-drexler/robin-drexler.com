@@ -6,8 +6,6 @@ date:   2015-09-07 00:00:00
 categories: ux chrome-extensions article
 ---
 
-
-# Improving "/search" UX with a small change
 A while ago, I created  a Chrome extension called [/search](/projects/chrome-extensions/search/ "/search").  
 It focuses the first search field on any page by pressing "/", which allows for instant searching on pages like amazon.com.  
 
