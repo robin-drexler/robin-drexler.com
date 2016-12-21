@@ -22,6 +22,7 @@ It's heavily inspired by [jekyll](http://jekyllrb.com/ "http://jekyllrb.com/").
 *   RSpec
 
 You can find the source code on [robin-drexler/cosch](https://github.com/robin-drexler/cosch "https://github.com/robin-drexler/cosch").
+
 ## Contriboot
 Contriboot is an application that allows [barcamp style conferences](http://en.wikipedia.org/wiki/BarCamp "http://en.wikipedia.org/wiki/BarCamp") (e.g. unconferences) to gather talk proposals and interests online before the actual event takes place.  
 Visitors are able to vote for talks they're interested in, so the people submitting talks can roughly gauge the interest.  
@@ -30,7 +31,7 @@ Contriboot was mainly developed by the awesome [Robert Kowalski](http://robert-k
 
 You can find the source code on: [jsunconf/contriboot](https://github.com/jsunconf/contriboot "https://github.com/jsunconf/contriboot").  
 
-Technologies used:  
+**Technologies used**:
 
 *   NodeJS
 *   HapiJS (MVC framework)
@@ -44,7 +45,7 @@ JimFlow Print enables everyone in a company or office to print tickets and notes
 
 You can find the source code on: [Jimdo/JimFlowPrint](https://github.com/Jimdo/JimFlowPrint "https://github.com/Jimdo/JimFlowPrint")  
 
-Used Technologies:  
+**Technologies used**:
 
 *   Symfony 2
 *   Google Cloud Print API (for printing Tickets)
