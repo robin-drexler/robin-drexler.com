@@ -39,6 +39,7 @@ Technologies used:
 *   Ansible (for provisioning and deployment. If you're interested why and how that works, I highly recommend [Robert's article](http://robert-kowalski.de/blog/choosing-the-right-stack-why-we-chose-hapi-couchdb-and-ansible/ "http://robert-kowalski.de/blog/choosing-the-right-stack-why-we-chose-hapi-couchdb-and-ansible/"))
 *   Couch DB
 *   Selenium/webdriver/lab (for automated integrational browser testing)
+
 ## Jimflow Print
 JimFlow Print is part of the [JimFlow project](http://jimflow.jimdo.com/), which helps digitizing kanban boards.  
 JimFlow Print enables everyone in a company or office to print tickets and notes (currently) on A6 format, using [Google Cloud Print API](https://developers.google.com/cloud-print/) for managing (Epson) printers and print jobs. No need for hours-long printer setups.  
@@ -50,6 +51,7 @@ Used Technologies:
 *   Symfony 2
 *   Google Cloud Print API (for printing Tickets)
 *   Ansible (for setting up local development environment)
+
 ## Conference Organization
 In recent years I got the chance to co-organize some community driven tech events.   
 
