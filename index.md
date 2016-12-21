@@ -10,10 +10,10 @@ permalink: /
 </style>
 
 <div style="display:flex; flex-wrap: wrap;">
-  <div style="width: 30%; min-width: 150px;padding-right: 15px;">
-  <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=353x10000:format=jpg/path/se42d1516dcb4082b/image/i82099e71ca6855b7/version/1472761417/image.jpg" />
+  <div style="width: 40%; min-width: 150px;padding-right: 15px;">
+  <img src="https://image.jimcdn.com/app/cms/image/transf/dimension=706x10000:format=jpg/path/se42d1516dcb4082b/image/i82099e71ca6855b7/version/1472761417/image.jpg" />
   </div>
-  <div style="width: 70%;">
+  <div style="width: 60%;">
   <p>That's me. <br />
 Living in Hamburg. <br />
 Working at <a href="http://jimdo.com">Jimdo</a>. <br />
