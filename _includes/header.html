@@ -15,7 +15,7 @@
 
       <div class="trigger">
         {% for my_page in site.data.menu %}
-          <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.text | escape }}</a>
+          <a class="page-link" href="{{ my_page.url }}">{{ my_page.text | escape }}</a>
         {% endfor %}
 
       </div>
