@@ -17,7 +17,6 @@ permalink: /
   <h1>Hi! :)</h1>
   <p>That's me. <br />
 Living in Hamburg. <br />
-Working at <a href="http://jimdo.com">Jimdo</a>. <br />
 Loving to do stuff on and with the web. See <a href="/projects/">projects</a> for some more information or check out my <a href="https://github.com/robin-drexler/" title="https://github.com/robin-drexler/">Github profile</a>. <br />
 I've also started a <a href="/blog/" title="Blog">blog</a> and a <a href="http://robin-drexler.github.io/til/" title="http://robin-drexler.github.io/til/">collection of "today I learned" - moments</a>.  </p>
 
