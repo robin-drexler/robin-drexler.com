@@ -11,4 +11,9 @@ When you attempt to purchase an 1Password licence and have already saved contact
 Really smart and helpful.  
 
 The following picture shows the untouched purchase window. Everything was already pre-filled.
-![](https://image.jimcdn.com/app/cms/image/transf/dimension=990x10000:format=png/path/se42d1516dcb4082b/image/i549e02271c588d2e/version/1436197037/image.png)
+<amp-img
+  src="https://image.jimcdn.com/app/cms/image/transf/dimension=990x10000:format=png/path/se42d1516dcb4082b/image/i549e02271c588d2e/version/1436197037/image.png"
+  width="990"
+  height="764"
+  layout="responsive">
+</amp-img>

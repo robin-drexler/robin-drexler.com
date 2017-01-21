@@ -5,8 +5,12 @@ permalink: /2014/10/25/ux-snippet-jimdo-android-app-sharing-menu/
 date:   2014-10-25 00:00:00
 categories: ux ux-snippet article
 ---
+<amp-img
+  src="https://image.jimcdn.com/app/cms/image/transf/dimension=210x1024:format=jpg/path/se42d1516dcb4082b/image/ifa4711da1311a6b3/version/1414269390/image.jpg"
+  width="210"
+  height="373">
+</amp-img>
 
-![](https://image.jimcdn.com/app/cms/image/transf/dimension=210x1024:format=jpg/path/se42d1516dcb4082b/image/ifa4711da1311a6b3/version/1414269390/image.jpg)
 The Jimdo app pushes browsers to the top of the sharing menu, because previewing the website is the most likely action. 
 
 <div>All other apps are sorted alphabetically, like usual. </div>

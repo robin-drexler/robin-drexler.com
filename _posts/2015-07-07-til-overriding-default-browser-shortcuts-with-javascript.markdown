@@ -12,7 +12,9 @@ I've always wondered, how it's done and it looks like it is surprisingly easy t
 ### How it's done
 To block default browser shortcuts, only a couple lines of JavaScript seem to be necessary.  
 The "trick" is to [prevent the default behavior of the keydown event](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault "https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault"), which in our case would normally trigger a browser action.
-<script src="https://gist.github.com/robin-drexler/f8edc1ffb0ed8c4f42c8.js" type="text/javascript">//</script>
+
+[See example code on github.](https://gist.github.com/robin-drexler/f8edc1ffb0ed8c4f42c8)
+
 ### Inconsistencies across browsers
 Doing a brief Google search, I couldn't find a spec or list of which actions can be prevented/overridden, so I did a quick checkup in the latest versions of Firefox (39), Chrome (43) and Safari (8).  
 

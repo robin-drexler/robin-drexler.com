@@ -6,7 +6,12 @@ date:   2014-10-15 00:00:00
 categories: ux chrome-extensions article
 ---
 
-![](https://image.jimcdn.com/app/cms/image/transf/dimension=579x1024:format=jpg/path/se42d1516dcb4082b/image/ib2cab20d3cb4dd88/version/1413403309/image.jpg)
+<amp-img
+  src="https://image.jimcdn.com/app/cms/image/transf/dimension=579x1024:format=jpg/path/se42d1516dcb4082b/image/ib2cab20d3cb4dd88/version/1413403309/image.jpg"
+  width="579"
+  height="362">
+</amp-img>
+
 A while ago, I released a Chrome extension, which sole purpose is to warn you when you accidentally attempt to close your Google Play Music tab, while still listening to music, so you stay and continue enjoying your music. Hence the name: [Google Play Music Tab Close Alarm](https://chrome.google.com/webstore/detail/google-play-music-tab-clo/ckclfldnjoefbibhhbdklbddhnehdgol "https://chrome.google.com/webstore/detail/google-play-music-tab-clo/ckclfldnjoefbibhhbdklbddhnehdgol")  
 
 I also added some tracking. Primarily to alert me, when the extension stops working entirely. Which it did for a couple of weeks in 2013, without me noticing, causing quite some negative ratings in the web store. But that's a different story.  

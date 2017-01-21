@@ -20,6 +20,12 @@ Secondly the event listeners bound to the target itself are being invoked. (Targ
 Last but not least, the event bubbles up through all ancesors and all listeners (that do not(!) make use of the useCapture flag) are getting called. (Bubble phase)  
 An event listener can either be registered for the capture or bubble phase, but not both. However the same function can be registered for both phases separately.
 ### Example Code
-<script src="https://gist.github.com/robin-drexler/d4d167f1aa0bd94094e2.js" type="text/javascript">//</script>
+[See example code on github.](https://gist.github.com/robin-drexler/d4d167f1aa0bd94094e2)
+
 ### Scribble
-![](https://image.jimcdn.com/app/cms/image/transf/dimension=990x10000:format=jpg/path/se42d1516dcb4082b/image/i018a7d79830f2f10/version/1436639476/image.jpg)
+<amp-img
+  src="https://image.jimcdn.com/app/cms/image/transf/dimension=990x10000:format=jpg/path/se42d1516dcb4082b/image/i018a7d79830f2f10/version/1436639476/image.jpg"
+  width="990"
+  height="743"
+  layout="responsive">
+</amp-img>
