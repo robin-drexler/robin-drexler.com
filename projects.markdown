@@ -6,11 +6,11 @@ permalink: /projects/
 
 Here you can find some of the projects, I'm currently working on or worked on in the past.  
 Additionally, there's an [extra page with some of my Chrome extensions](/projects/chrome-extensions/ "Chrome Extensions").
-<div style="height: 40px;"><span></span></div>
+<div class="spacing"><span></span></div>
 
 ## cosch - a COnference SCHedule tool
 [cosch](https://rubygems.org/gems/cosch "https://rubygems.org/gems/cosch") is an easy to use, offline available, responsive and flexible schedule/timetable website generator for conferences.   
-It was already successfully used and tested by some conferences, including <span style="line-height: 1.6;" data-mce-style="line-height: 1.6;">[Javascript Unconference](http://jsunconf.github.io/schedule2015.jsunconf.eu/ "http://jsunconf.github.io/schedule2015.jsunconf.eu/"),</span><span style="line-height: 1.6;" data-mce-style="line-height: 1.6;"> </span>[PHP Unconference](http://bootev.github.io/2014-phpunconf-schedule/ "http://bootev.github.io/2014-phpunconf-schedule/") and [Python Unconference](http://bootev.github.io/2014-pythonunconf-schedule/index.html "http://bootev.github.io/2014-pythonunconf-schedule/index.html")<span style="line-height: 1.6;" data-mce-style="line-height: 1.6;">.</span>  
+It was already successfully used and tested by some conferences, including <span >[Javascript Unconference](http://jsunconf.github.io/schedule2015.jsunconf.eu/ "http://jsunconf.github.io/schedule2015.jsunconf.eu/"),</span><span> </span>[PHP Unconference](http://bootev.github.io/2014-phpunconf-schedule/ "http://bootev.github.io/2014-phpunconf-schedule/") and [Python Unconference](http://bootev.github.io/2014-pythonunconf-schedule/index.html "http://bootev.github.io/2014-pythonunconf-schedule/index.html")<span>.</span>  
 
 It's heavily inspired by [jekyll](http://jekyllrb.com/ "http://jekyllrb.com/").  
 

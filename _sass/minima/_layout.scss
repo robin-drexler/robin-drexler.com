@@ -1,3 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+.index__wrapper {
+  display:flex;
+  flex-wrap: wrap;
+}
+
+.index__image-container {
+  width: 40%;
+  min-width: 150px;
+  padding-right: 15px;
+}
+
+.index__text-container {
+  width: 60%;
+}
+
+.spacing {
+  height: 40px;
+}
+
 /**
  * Site header
  */

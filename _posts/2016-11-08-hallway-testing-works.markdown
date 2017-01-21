@@ -9,7 +9,10 @@ categories: ux article web
 During this year's Firebase Dev Summit in Berlin, [Tobias](https://twitter.com/tobiasbales "https://twitter.com/tobiasbales") and I built a little web app, called [webperfchallenge](https://webperfchallenge.com/ "https://webperfchallenge.com/"), which allows to compare your website's mobile performance with the top 50 most popular websites in the world.  
 
 During development we simply used Chrome's autocompletion to insert test urls.
-![](https://image.jimcdn.com/app/cms/image/transf/dimension=462x1024:format=png/path/se42d1516dcb4082b/image/i62270ef81557ac8e/version/1478626142/image.png)
+<amp-img src="https://image.jimcdn.com/app/cms/image/transf/dimension=462x1024:format=png/path/se42d1516dcb4082b/image/i62270ef81557ac8e/version/1478626142/image.png"
+height="467"
+width="462"
+></amp-img>
 
 Later that day, I showed the app to two people so they'd test it. Since we were at the party already, they used their phones to do so.  
 

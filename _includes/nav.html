@@ -1,0 +1,3 @@
+{% for item in include.nav %}
+  <a class="page-link" href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+{% endfor %}

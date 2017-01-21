@@ -13,4 +13,4 @@ Could for example be useful to log access to properties when you're not sure if 
 
 Kind of reminds me of Ruby's [Virtual Attributes](http://ruby-doc.com/docs/ProgrammingRuby/html/tut_classes.html#UC "http://ruby-doc.com/docs/ProgrammingRuby/html/tut_classes.html#UC").
 ## Example getter and setter
-<script src="https://gist.github.com/robin-drexler/78e2ce8272fc5485ff66.js" type="text/javascript">//</script>
+[See example code on github](https://gist.github.com/robin-drexler/78e2ce8272fc5485ff66)

@@ -2,18 +2,16 @@
 layout: page
 permalink: /
 ---
-<style>
-* {
-  box-sizing: border-box;
-}
 
-</style>
-
-<div style="display:flex; flex-wrap: wrap;">
-  <div style="width: 40%; min-width: 150px;padding-right: 15px;">
-  <img src="/assets/img/me.jpg" />
+<div class="index__wrapper">
+  <div class="index__image-container">
+  <amp-img
+    src="/assets/img/me.jpg"
+    height="706"
+    width="706"
+    layout="responsive"> </amp-img>
   </div>
-  <div style="width: 60%;">
+  <div class="index__text-container">
   <h1>Hi! :)</h1>
   <p>That's me. <br />
 Living in Hamburg. <br />
