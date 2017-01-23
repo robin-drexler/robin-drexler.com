@@ -4,6 +4,7 @@ title:  '[TIL] getter and setter in JavaScript'
 permalink: /2015/08/16/til-getter-and-setter-in-javascript/
 date:   2015-08-16 00:00:00
 categories: til article
+has_gist: true
 ---
 
 You can define getter and setter functions in JS, which from the outside just look like normal objects properties, but since they're functions can do additional work when accessed.  

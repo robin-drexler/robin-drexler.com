@@ -4,6 +4,7 @@ title:  '[TIL] Overriding default browser shortcuts with JavaScript'
 permalink: /2015/07/07/overriding-default-browser-shortcuts/
 date:   2015-07-07 00:00:00
 categories: til article web
+has_gist: true
 ---
 
 Google Drive does it, medium does it and plenty of other services do it too - overriding default and well known browser shortcuts with application specific behavior.  
