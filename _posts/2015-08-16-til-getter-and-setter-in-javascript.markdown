@@ -13,5 +13,6 @@ Could for example be useful to log access to properties when you're not sure if 
 [ ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get")  
 
 Kind of reminds me of Ruby's [Virtual Attributes](http://ruby-doc.com/docs/ProgrammingRuby/html/tut_classes.html#UC "http://ruby-doc.com/docs/ProgrammingRuby/html/tut_classes.html#UC").
+
 ## Example getter and setter
 {% include gh-gist.html gist_url="https://gist.github.com/robin-drexler/78e2ce8272fc5485ff66" %}
