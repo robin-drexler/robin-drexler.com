@@ -17,7 +17,7 @@ title: Robin Drexler
 email: ''
 description: ''
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.robin-drexler.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RobinDrexler
 github_username:  robin-drexler
 production_url: https://www.robin-drexler.com
