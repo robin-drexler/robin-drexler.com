@@ -8,6 +8,19 @@ Here you can find some of the projects, I'm currently working on or worked on in
 Additionally, there's an [extra page with some of my Chrome extensions](/projects/chrome-extensions/ "Chrome Extensions").
 <div class="spacing"><span></span></div>
 
+## webperfchallenge.com
+
+[https://webperfchallenge.com](https://webperfchallenge.com) allows to compare your website's Google PageSpeed score with the most popular sites in the world, giving you a hint on how well your website performs in comparison.
+
+[Read more about it here.]({% post_url 2017-01-31-making-google-pagespeed-comparable %})
+
+**Technologies used**
+
+ * [React](https://facebook.github.io/react/)
+ * [create-react-app](https://github.com/facebookincubator/create-react-app)
+ * [material-ui](http://www.material-ui.com/) (Component library)
+ * [Firebase](https://firebase.google.com/) (Database and serving static website)
+
 ## cosch - a COnference SCHedule tool
 [cosch](https://rubygems.org/gems/cosch "https://rubygems.org/gems/cosch") is an easy to use, offline available, responsive and flexible schedule/timetable website generator for conferences.   
 It was already successfully used and tested by some conferences, including <span >[Javascript Unconference](http://jsunconf.github.io/schedule2015.jsunconf.eu/ "http://jsunconf.github.io/schedule2015.jsunconf.eu/"),</span><span> </span>[PHP Unconference](http://bootev.github.io/2014-phpunconf-schedule/ "http://bootev.github.io/2014-phpunconf-schedule/") and [Python Unconference](http://bootev.github.io/2014-pythonunconf-schedule/index.html "http://bootev.github.io/2014-pythonunconf-schedule/index.html")<span>.</span>  
