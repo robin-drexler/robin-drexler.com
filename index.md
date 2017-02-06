@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /
-excerpt: Robin Drexler's website. Blog and projects 
+excerpt: Robin Drexler's website. Blog and projects
+title: Robin Drexler's website
 ---
 
 <div class="index__wrapper">
@@ -14,7 +15,6 @@ excerpt: Robin Drexler's website. Blog and projects
     alt="Robin Drexler"> </amp-img>
   </div>
   <div class="index__text-container">
-  <h1>Robin Drexler</h1>
   <h2>Hi! :)</h2>
   <p>That's me. <br />
 Living in Hamburg. <br />
