@@ -16,21 +16,27 @@ assetsToCache.push('{{post.url}}');
 
 self.addEventListener("install", event => {
   event.waitUntil(
-    self.caches.open(VERSION).then(cache => cache.addAll(assetsToCache))
+    self.caches
+      .open(VERSION)
+      .then(cache => cache.addAll(assetsToCache))
+      .then(() => self.skipWaiting())
   );
 });
 
 self.addEventListener("activate", event => {
   event.waitUntil(
-    caches.keys().then(cacheNames => {
-      return Promise.all(
-        cacheNames
-          .filter(cacheName => cacheName !== VERSION)
-          .map(cacheName => {
-            return caches.delete(cacheName);
-          })
-      ).then(() => self.clients.claim())
-    })
+    caches
+      .keys()
+      .then(cacheNames => {
+        return Promise.all(
+          cacheNames
+            .filter(cacheName => cacheName !== VERSION)
+            .map(cacheName => {
+              return caches.delete(cacheName);
+            })
+        );
+      })
+      .then(() => self.clients.claim())
   );
 });
 
