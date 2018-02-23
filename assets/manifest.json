@@ -1,0 +1,15 @@
+{
+  "name": "Robin Drexler's website",
+  "short_name": "Robin Drexler",
+  "lang": "en-US",
+  "start_url": "/",
+  "display": "minimal-ui",
+  "theme_color": "#fff",
+  "icons": [
+    {
+      "src": "/assets/img/me.jpg",
+      "sizes": "257x257",
+      "type": "image/jpg"
+    }
+  ]
+}

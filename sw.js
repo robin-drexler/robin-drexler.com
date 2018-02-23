@@ -29,19 +29,14 @@ self.addEventListener("activate", event => {
           .map(cacheName => {
             return caches.delete(cacheName);
           })
-      );
+      ).then(() => self.clients.claim())
     })
   );
 });
 
-
-
 self.addEventListener("fetch", event => {
-  console.log('FETCHING THINGS')
   event.respondWith(
-    
-    self.caches.match(event.request).then((response) => {
-      console.log(event.request, response)
+    self.caches.match(event.request).then(response => {
       return response || fetch(event.request);
     })
   );
