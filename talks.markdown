@@ -7,12 +7,11 @@ has_youtube: true
 
 [Please find the slides of all my talks on slidr.io.](https://slidr.io/robin-drexler/)
 
-
 ## Recorded talks
 
 ### preconnect, prefetch, preload, pre-what? - An introduction to Resource Hints (November 2017)
 
-[Slides](https://slidr.io/robin-drexler/preconnect-prefetch-preload-pre-what-an-introduction-to-resource-hints#1)
+[Slides on slidr.io](https://slidr.io/robin-drexler/preconnect-prefetch-preload-pre-what-an-introduction-to-resource-hints#1)
 
 Every millisecond counts when loading websites. Unfortunately, networks are slow, and while browsers got better at finding critical resources, they still need our help.
 
@@ -34,12 +33,19 @@ How to make sure your site still works in a world where prerendering of entire p
   data-videoid="S0LuakIy65Y">
 </amp-youtube>
 
+### Sketch
+
+The folks at [neuland](https://twitter.com/neuland/status/987689237926633472) were so kind to produce a sketch note of this talk given at JSUnconf 2018.
+<amp-img
+  height="2048"
+  width="1344"
+  layout="responsive" src="/assets/img/preload-sketch.jpg">
+</amp-img>
 
 ### 7+ web technologies you might not know yet (March 2017)
 
-[Slides](https://slidr.io/robin-drexler/7-web-technologies-you-might-not-know-yet#1) 
+[Slides on slidr.io](https://slidr.io/robin-drexler/7-web-technologies-you-might-not-know-yet#1)
 A brief rundown about potentially lesser known web technologies, including: - subresource integrity - HTTP status code 103 (Early Hints) - window.opener - cache-control: immutable - addEventListener's third parameter.
-
 
 <amp-youtube width="480"
   height="270"
@@ -47,9 +53,9 @@ A brief rundown about potentially lesser known web technologies, including: - su
   data-videoid="4ev8zWpKhzI">
 </amp-youtube>
 
-
 ### Road to CloudPrint (July 2012, German)
-[Slides](https://slidr.io/robin-drexler/road-to-google-cloud-print#1)
+
+[Slides on slidr.io](https://slidr.io/robin-drexler/road-to-google-cloud-print#1)
 <amp-youtube width="480"
   height="270"
   layout="responsive"
