@@ -1,15 +1,35 @@
 ---
 layout: page
-title:  'Talks'
+title: 'Talks'
 permalink: /talks/
 has_youtube: true
 ---
 
 [Please find the slides of all my talks on slidr.io.](https://slidr.io/robin-drexler/)
 
-## Recorded talks
+## Hops - Universal flexible and extensible React applications
 
-### preconnect, prefetch, preload, pre-what? - An introduction to Resource Hints (November 2017)
+[Slides on slidr.io](https://slidr.io/robin-drexler/hops-universal-flexible-and-extensible-react-applications#1)
+
+Hops is a framework that gets you started quickly with your React application, and also allows to customize your application's behavior through various run- and build time hooks without "ejecting" to support more sophisticated use cases.
+
+In this talk, we will show how we use Hops at Xing to deliver features for a larger amount of product teams in a central manner and why we chose to build our own solution instead of going with an existing solutions, such as "create-react-app" or "Next.js".
+
+We will also dive into Hops' architecture and discuss its virtues as well as its shortcomings.
+
+### Sketch
+
+The fantastic [Gerta Xhepi](https://twitter.com/GXhepi) drew a sketch of this talk and allowed me to use it.
+
+<amp-img
+  height="1200"
+  width="923"
+  layout="responsive" src="/assets/img/hops-sketch.jpg">
+</amp-img>
+
+
+
+## preconnect, prefetch, preload, pre-what? - An introduction to Resource Hints (November 2017)
 
 [Slides on slidr.io](https://slidr.io/robin-drexler/preconnect-prefetch-preload-pre-what-an-introduction-to-resource-hints#1)
 
@@ -42,7 +62,7 @@ The folks at [neuland](https://twitter.com/neuland/status/987689237926633472) we
   layout="responsive" src="/assets/img/preload-sketch.jpg">
 </amp-img>
 
-### 7+ web technologies you might not know yet (March 2017)
+## 7+ web technologies you might not know yet (March 2017)
 
 [Slides on slidr.io](https://slidr.io/robin-drexler/7-web-technologies-you-might-not-know-yet#1)
 A brief rundown about potentially lesser known web technologies, including: - subresource integrity - HTTP status code 103 (Early Hints) - window.opener - cache-control: immutable - addEventListener's third parameter.
@@ -53,7 +73,7 @@ A brief rundown about potentially lesser known web technologies, including: - su
   data-videoid="4ev8zWpKhzI">
 </amp-youtube>
 
-### Road to CloudPrint (July 2012, German)
+## Road to CloudPrint (July 2012, German)
 
 [Slides on slidr.io](https://slidr.io/robin-drexler/road-to-google-cloud-print#1)
 <amp-youtube width="480"
