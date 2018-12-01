@@ -27,8 +27,6 @@ The fantastic [Gerta Xhepi](https://twitter.com/GXhepi) drew a sketch of this ta
   layout="responsive" src="/assets/img/hops-sketch.jpg">
 </amp-img>
 
-
-
 ## preconnect, prefetch, preload, pre-what? - An introduction to Resource Hints (November 2017)
 
 [Slides on slidr.io](https://slidr.io/robin-drexler/preconnect-prefetch-preload-pre-what-an-introduction-to-resource-hints#1)
@@ -72,6 +70,27 @@ A brief rundown about potentially lesser known web technologies, including: - su
   layout="responsive"
   data-videoid="4ev8zWpKhzI">
 </amp-youtube>
+
+## bfcache (November 2016, lightning talk)
+
+A talk about the lesser known [bfcache](https://developer.mozilla.org/en-US/docs/Archive/Misc_top_level/Working_with_BFCache).
+The talk explains what it is, why it is useful and how to tame it.
+
+[Slided on slidr.io](https://slidr.io/robin-drexler/bfcache#1)
+
+## Behavior testing at Jimdo (October 2016)
+
+[Slides on Google Drive](https://drive.google.com/file/d/0B2qRgsrherfzeGxyTllfRUpGRTg/view?usp=sharing)
+
+This talk covers how we behavior-test the Jimdo website builder application.
+
+We will take a look at gems like cucumber and watir-webdriver and how we use those for testing our UI, also addressing how we try to keep the tests stable and the test execution time at a bearable level.
+
+## Why you should deploy HTTPS. Even if user security is not your top priority (September 2015 / June 2016, lightning talk)
+
+[Slides on slidr.io](https://slidr.io/robin-drexler/why-you-should-deploy-https-even-if-user-security-is-not-your-top-priority#1)
+
+
 
 ## Road to CloudPrint (July 2012, German)
 
