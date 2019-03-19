@@ -8,22 +8,21 @@ title: Robin Drexler's website
 <div class="index__wrapper">
   <div class="index__image-container">
   <amp-img
-    src="/assets/img/me.jpg"
+    src="/assets/img/me_2019.jpg"
     height="706"
     width="706"
     layout="responsive"
     alt="Robin Drexler"> </amp-img>
   </div>
   <div class="index__text-container">
-  <h2>Hi! :)</h2>
-  <p>That's me. <br />
-Living in Hamburg. <br />
-Love to do stuff on and with the web. See <a href="/projects/">projects</a> for some more information or check out my <a href="https://github.com/robin-drexler/" title="https://github.com/robin-drexler/">Github profile</a>. <br />
-I've also started a <a href="/blog/" title="Blog">blog</a> and <a href="https://twitter.com/search?f=tweets&vertical=default&q=TIL%20from%3Arobindrexler&src=typd">collect "Today I learned"-moments.</a> </p>
+  <h2>Hi! 👋</h2>
+ <p> Welcome to my website.<br>
+I love to do stuff on and with the web. See <a href="/projects/">projects</a> for some more information or check out my <a href="https://github.com/robin-drexler/" title="https://github.com/robin-drexler/">Github profile</a>. <br /><br />
+I also share my thoughts by <a href="https://twitter.com/search?f=tweets&vertical=default&q=TIL%20from%3Arobindrexler&src=typd">collecting "Today I learned"-moments</a>, <a href="/talks/">giving talks</a> and on rare occasions publishing on my <a href="/blog/">blog</a>.</p>
 
 <p>
-  If you'd like to get in touch, just send me a <a href="https://twitter.com/RobinDrexler" title="https://twitter.com/RobinDrexler">Tweet</a>, an <a href="mailto:drexler.robin+frompage@gmail.com" title="drexler.robin+frompage@gmail.com">email</a>
-  or connect with me on <a href="https://www.xing.com/profile/Robin_Drexler">Xing</a>. :)
+  If you'd like to get in touch, just send me a <a href="https://twitter.com/RobinDrexler" title="https://twitter.com/RobinDrexler">Tweet</a>, an <a href="mailto:drexler.robin+frompage@gmail.com" title="drexler.robin+frompage@gmail.com">E-Mail</a>
+  or connect with me on <a href="https://www.xing.com/profile/Robin_Drexler">Xing</a> or <a href="https://www.linkedin.com/in/robin-drexler-10537133/">LinkedIn</a>. :)
 
   </p>
   </div>

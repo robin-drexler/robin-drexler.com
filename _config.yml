@@ -14,21 +14,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Robin Drexler
-email: ''
-description: ''
+email: ""
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.robin-drexler.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RobinDrexler
-github_username:  robin-drexler
+github_username: robin-drexler
 production_url: https://www.robin-drexler.com
 
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
-      image: "/assets/img/me.jpg"
+      image: "/assets/img/me_2019.jpg"
       image_height: 706
       image_width: 706
 

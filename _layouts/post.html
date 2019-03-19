@@ -1,23 +1,38 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="https://schema.org/BlogPosting">
 
+<article class="post" itemscope itemtype="https://schema.org/BlogPosting">
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished dateModified">{{ page.date | date: "%b %-d, %Y" }}</time>• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">Robin Drexler</span></span></p>
-    <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+    <h1 class="post-title" itemprop="name headline">
+      {{ page.title | escape }}
+    </h1>
+    <p class="post-meta">
+      <time
+        datetime="{{ page.date | date_to_xmlschema }}"
+        itemprop="datePublished dateModified"
+        >{{ page.date | date: "%b %-d, %Y" }}</time
+      >•
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person"
+        ><span itemprop="name">Robin Drexler</span></span
+      >
+    </p>
+    <span
+      itemprop="publisher"
+      itemscope
+      itemtype="https://schema.org/Organization"
+    >
       <meta itemprop="name" content="Robin Drexler" />
       <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
-        <meta itemprop="url" content="{{site.url}}/assets/img/me.jpg" />
+        <meta itemprop="url" content="{{ site.url }}/assets/img/me_2019.jpg" />
         <meta itemprop="height" content="706" />
         <meta itemprop="width" content="706" />
       </span>
     </span>
     <span itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-      <meta itemprop="url" content="{{site.url}}{{page.image}}" />
-      <meta itemprop="height" content="{{page.image_height}}" />
-      <meta itemprop="width" content="{{page.image_width}}" />
+      <meta itemprop="url" content="{{ site.url }}{{ page.image }}" />
+      <meta itemprop="height" content="{{ page.image_height }}" />
+      <meta itemprop="width" content="{{ page.image_width }}" />
     </span>
   </header>
 
@@ -25,7 +40,5 @@ layout: default
     {{ content }}
   </div>
 
-  {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-  {% endif %}
+  {% if site.disqus.shortname %} {% include disqus_comments.html %} {% endif %}
 </article>
