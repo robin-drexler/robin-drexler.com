@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  'Making Google PageSpeed comparable'
-date:   2017-01-31 00:00:00
+title: "Making Google PageSpeed comparable"
+date: 2017-01-31 00:00:00
 ---
 
 For years now, I've used Google's ["PageSpeed Insights"](https://developers.google.com/speed/pagespeed/insights/) service to measure the performance of websites.
@@ -15,7 +15,6 @@ layout="responsive"
 src="/assets/img/posts/pagespeed-insights.png"
 alt="Screenshot pagespeed insights">
 </amp-img>
-
 
 While receiving such score is valuable on its own and for example you can safely assume that a score of 95 is great, I somehow missed a way to compare with others. Is a score of 60 good as well or bad? How about 75? I was never sure.
 

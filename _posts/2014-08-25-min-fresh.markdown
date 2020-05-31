@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "[TIL] Cache-Control: min-fresh=n http header exists"
-date:   2014-08-25 15:00:00
+title: "[TIL] Cache-Control: min-fresh=n http header exists"
+date: 2014-08-25 15:00:00
 ---
 
 [Cache-Control: min-fresh](http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.9.3)
