@@ -9,6 +9,44 @@ Additionally, there's an [extra page with some of my Chrome extensions](/proj
 
 <div class="spacing"><span></span></div>
 
+## exec-ts
+
+Allows to write your scripts in TypeScript and execute them in node.
+
+Your file:
+
+```ts
+const name: string = "world";
+console.log(`hello ${name}`);
+```
+
+`exec-ts` compiles this file to JavaScript and immeditaly runs it.
+
+```js
+const name = "world";
+console.log(`hello ${name}`);
+```
+
+```shell
+npx exec-ts ./your-ts-file.ts
+# hello world
+```
+
+It's kind of like [`ts-node`](https://github.com/TypeStrong/ts-node), just more lightweight and with fewer features.
+Uses [`esbuild`](https://esbuild.github.io) which should make it reasonbly fast.
+With this project, I also tried to "de-facebook" the stack and hence ditched `jest` and `yarn` for the first time in years.
+
+Also it's the first time, I tried to use [`jsdoc`](https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html) to gain type safety without the overhead of compiling TypeScript.
+Which worked pretty well.
+
+You can find the source code on [robin-drexler/exec-ts](https://github.com/robin-drexler/exec-ts).
+
+**Technologies used**
+
+- [nodejs](https://nodejs.org/en/)
+- [ava](https://github.com/avajs/ava)
+- [esbuild](https://esbuild.github.io)
+
 ## babel-plugin-debug-source
 
 Babel plugin that adds file path and loc information to [debug](https://www.npmjs.com/package/debug) calls in JavaScript source files. Heavily inspired by [babel-plugin-console-source](https://www.npmjs.com/package/babel-plugin-console-source).
