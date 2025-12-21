@@ -62,7 +62,8 @@ You can find the source code on [robin-drexler/babel-plugin-debug-source](https
 
 ## ranmdn
 
-[https://bit.ly/randommdn](https://bit.ly/randommdn) redirects to a random [Mozilla Developer Network (mdn)](https://developer.mozilla.org/en-US/) article, similar to [Wikipedia's random site feature](https://en.wikipedia.org/wiki/Wikipedia:Random). It works by fetching the page's sitemap.xml and picking a random entry when a request is made.
+[https://ranmdn.r10r.dev](https://ranmdn.r10r.dev): discover random articles from MDN Web Docs. Perfect for learning something new about web development.
+Similar to wikipedia's random article feature.
 
 You can find the source code on [robin-drexler/ranmdn](https://github.com/robin-drexler/ranmdn).
 
@@ -73,7 +74,7 @@ You can find the source code on [robin-drexler/ranmdn](https://github.com/robin
 
 ## httpsleep
 
-[https://httsleep.herokuapp.com/](https://httsleep.herokuapp.com/) delays and proxies or redirects requests. Perfect to test how your app behaves when some resources take longer than usual to load.
+[https://httsleep.r10r.dev/](https://httsleep.r10r.dev/) lets you test how your application handles slow network requests, timeouts, and loading states.
 
 You can find the source code on [robin-drexler/httsleep](https://github.com/robin-drexler/httsleep) and see it in action on [this very page](httsleep.herokuapp.com/3?redirectUrl=https://www.robin-drexler.com/projects/)
 
